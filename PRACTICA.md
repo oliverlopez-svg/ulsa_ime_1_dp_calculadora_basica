@@ -190,8 +190,8 @@ int main() {
 **Para compilar y ejecutar:**
 
 ```bash
-g++ -Wall -Wextra -std=c++17 main.cpp -o calculadora
-./calculadora
+
+./calculadorag++ -Wall -Wextra -std=c++17 main.cpp -o calculadora
 ```
 
 **Traza la receta en tu código.** Deja un comentario `// Paso N` sobre cada bloque, igual que en la plantilla. Al terminar, llena la sección 8 de tu `README.md`: para cada paso de la receta, la instrucción de C++ que lo implementa. Si un paso no tiene código, o hay código que no corresponde a ningún paso, algo no cuadra.
